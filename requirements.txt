@@ -3,3 +3,4 @@ requests
 Pillow
 PyMuPDF
 pdfplumber
+pandas
