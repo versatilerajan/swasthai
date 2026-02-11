@@ -4,6 +4,7 @@ import json
 from PIL import Image
 import io
 import os
+import pandas as pd
 API_URL = "https://swasthai-5did.onrender.com/analyze"
 API_HEALTH_URL = "https://swasthai-5did.onrender.com/health"
 
