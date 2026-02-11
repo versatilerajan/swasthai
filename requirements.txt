@@ -1,0 +1,6 @@
+streamlit
+requests
+Pillow
+PyMuPDF
+pdfplumber
+python-magic-bin        
